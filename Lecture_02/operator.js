@@ -1,5 +1,5 @@
-let number1 = 1565;
+let number1 = "fghfhf"
 let number2 = 1565;
 
-document.getElementById("n1").innerHTML = number1;
-document.getElementById("n2").innerHTML = number2;
+document.getElementById("demo1").innerHTML = number1;
+document.getElementById("demo2").innerHTML = number2;
