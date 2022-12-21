@@ -7,4 +7,4 @@ function getVowels(str){
 }
 
 
-getVowels("aaaaa");
+getVowels("ppppe");
