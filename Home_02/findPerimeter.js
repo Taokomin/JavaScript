@@ -1,4 +1,4 @@
-let findPerimeter = (length, width) =>{
+function findPerimeter(length, width){
     result = (length + width)*2;
     return console.log(result);
   }
