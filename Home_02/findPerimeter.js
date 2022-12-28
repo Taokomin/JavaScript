@@ -1,5 +1,5 @@
-let findPerimeter = (num1, num2) =>{
-    result = (num1 + num2)*2;
+let findPerimeter = (length, width) =>{
+    result = (length + width)*2;
     return console.log(result);
   }
 

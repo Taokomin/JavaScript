@@ -1,6 +1,7 @@
 function reverseString(value){
+    let reversedValue = "";
 
-    value.split("").array.forEach((char) => {
+    value.split("").forEach((char) => {
         reversedValue = char + reversedValue;        
     });
 
