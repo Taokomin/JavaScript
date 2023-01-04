@@ -1,5 +1,4 @@
-let num ="";
-let equation = (num) => {
+function equation(num){
     result = eval(num);
     return console.log(result);
   }
@@ -7,3 +6,4 @@ let equation = (num) => {
 equation("1+1");
 equation("7*4-2");
 equation("1+1+1+1+1");
+
